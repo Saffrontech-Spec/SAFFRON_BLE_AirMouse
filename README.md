@@ -26,7 +26,7 @@ The ESP32 processes it, applies a smoothing algorithm, and sends movement signal
 Download the latest version of our custom BLE library (v3.3.2) from below and add it to your Arduino IDE via  
 **Sketch → Include Library → Add .ZIP Library**  
 
-👉 [Download SAFFRON BLE Mouse Library (ZIP)](https://github.com/SAFFRONTECH-OFFICIAL/SAFFRON_BLE_AirMouse/raw/main/libraries/ESP32-BLE-Mouse-SAFFRON-FIXED-LIB.zip)
+👉 [Download SAFFRON BLE Mouse Library (ZIP)](https://github.com/Saffrontech-Spec/SAFFRON_BLE_AirMouse/blob/main/ESP32-BLE-Mouse-SAFFRON-FIXED-LIB.zip)
 
 ---
 
