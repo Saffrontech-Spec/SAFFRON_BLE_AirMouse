@@ -108,7 +108,7 @@ Hardware and firmware were verified step-by-step in **WOWKI Simulations** and on
 
 ### 1️⃣ Wiring Verification  
 Ensured proper I²C and button connections between ESP32 and MPU6050.  
-![Wiring Verification](/assets/Wiring_Check.jpg)
+![Wiring Verification](https://github.com/Saffrontech-Spec/SAFFRON_BLE_AirMouse/blob/main/Wiring_Check.jpg)
  
 Confirmed MPU6050 found at address `0x68`.  
 
@@ -120,7 +120,7 @@ Checked Serial Monitor outputs (`L`, `R`, `SU`, `SD`) for each button.
 When a button is **not pressed**, you should see `1`.  
 When **pressed**, it should show `0`.  
 
-![Button Test](/assets/Buttons_Check.jpg)
+![Button Test](https://github.com/Saffrontech-Spec/SAFFRON_BLE_AirMouse/blob/main/Buttons_Check.jpg)
 
 ---
 
@@ -137,7 +137,7 @@ Accel X: -0.45  Y: 0.12  Z: 9.81
 Move the sensor — the numbers should change.  
 If you see that, your MPU6050 wiring (SDA = 21, SCL = 22, VCC = 3.3 V, GND = GND) is correct.
 
-![MPU + BLE Mouse Test](/assets/MPU+Mouse_motion_Control_Check.jpg)
+![MPU + BLE Mouse Test](https://github.com/Saffrontech-Spec/SAFFRON_BLE_AirMouse/blob/main/MPU%2BMouse_motion_Control_Check.jpg)
 
 ---
 
