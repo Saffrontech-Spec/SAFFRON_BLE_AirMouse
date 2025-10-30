@@ -293,7 +293,7 @@ SAFFRON_BLE_AirMouse/
 
 ## 🧠 Author & Credits
 
-**Developed by:** [SAFFRON TECH](https://github.com/Saffrontech-spec-OFFICIAL)  
+**Developed by:** [SAFFRON TECH](https://github.com/Saffrontech-Spec)  
 *[Updated the Original BLE Library]*  
 _All credits for the Original BleMouse Library go to the original author._  
 
