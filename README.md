@@ -87,7 +87,7 @@ Download the latest version of our custom BLE library (v3.3.2) from below and ad
 
 Below is the official circuit layout for the **SAFFRON BLE AirMouse**:
 
-![SAFFRON BLE AirMouse Circuit](/assets/@Saffrontech_.png)
+![SAFFRON BLE AirMouse Circuit](https://github.com/Saffrontech-Spec/SAFFRON_BLE_AirMouse/blob/main/%40Saffrontech_.png)
 
 | Component | ESP32 Pin | Description |
 |------------|------------|-------------|
